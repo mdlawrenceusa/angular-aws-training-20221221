@@ -10,9 +10,9 @@ import { Component } from '@angular/core';
 })
 export class AiBotTest001Component {
   products = [
-    { name: 'Product 1' },
-    { name: 'Product 2' },
-    { name: 'Product 3' },
+    { name: 'Student 1' },
+    { name: 'Student 2' },
+    { name: 'Student 3' },
   ];
 }
 
